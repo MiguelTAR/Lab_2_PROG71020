@@ -39,7 +39,7 @@ public:
 // The Location class represents a point in a 2D space,
 class Location {
 public:
-	double x;// The x-coordinate of the location(horizantal)
+	double x;// The x-coordinate of the location(horizontal )
 	double y;// The y-coordinate of the location(vertical)
 
 	// Constructor to initialize the location's coordinates
